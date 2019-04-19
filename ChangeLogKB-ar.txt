@@ -1,28 +1,37 @@
-﻿{"version_code":451210,"content":"
-<p>تحديث جديد الأصدار الثالث New update version 3 </p>
+﻿{"version_code":451211,"content":"
+<p>تحديث جديد الأصدار الرابع New update version 4 </p>
 
 <li>تم بعون الله اطلاق التحديث الجديد</li>
 <li>يحمل مميزات كثيرة</li>
 <li>ملاحظة مهمة</li>
 <li>لاتقم بإزالة تثبيت النسخة السابقة كل ماعليك هو تثبيت الاصدار الجديد فوقها مباشرتاً حتى لاتفقد شئ من محادثاتك</li>
+<li>التحديث لنسخة الماركت 2.19.17</li>
+<li>إضافة الفيسات الجديدة/li>
+<li>يمكنك عمل مكالمة جماعية ما اعضاء المجموعات</li>
+<li>اذا قمت بتحديد رسالة مرسلة في المجموعة يمكنك الرد على مرسلها بشكل منفرد في الخاص</li>
 <li>إضافة قسم من الحالات الكتابية فيه اقسام كثيرة (يعمل بدون نت)</li>
-<li>زيادة حجم الحالة الى اكثر من ساعة</li>
+<li>تمديد فترة صلاحية الواتساب الى عام 2020</li>
 <li>أصبح بإمكانك إضافة الملصقات من اي تطبيق خاص بالملصقات في سوق بلاي</li>
-<li>*يمكنك ترتيب عرض الرسائل حسب الاقدم او الاحد بعد عرض الرسائل المرسلة من قبل اي شخص في المجموعة</li>
-<li>إضافة الخيار 6.21 لتعطيل فتح المحادثات المخفية بعد الضغط على كلمة WhatsApp</li>
-<li>شكل جديد لاضافات العاقل وخيار القروبات</li>
-<li>يمكنك تثبيت ٣٠ محادثة بدلا من ٢٥ محادثة</li>
+<li>زيادة حجم الحالة الى اكثر من ساعة</li>
+<li>يمكنك تثبيت 30 محادثة بدلا من 25 محادثة</li>
 <li>إضافة نافذة تأكيد عند الاتصال بشخص ما من داخل المجموعة</li>
 <li>اصلاح الايقاف الاجباري عندي اختيار اكثر من شخص في قائمة الرد التلقائي و الرسائل المجدولة</li>
-<li>اصلاح خيار تغيير اللغة في اصدار اوريو واعلى</li>
 <li>اصلاح ظهور نافذة عرض الرسائل المرسلة بعد الضغط على عرض المزيد في معلومات المجموعة</li>
+<li> هذه النسخه لا تتأثر بالفيروسات اطلاقا وتم اصلاح مشكلة الاغلاق بقوه عند ارسال فيروسات او رسائل تهنيج</li>
+<li> اضافة 60 قروب واتساب ومجموعات متنوعة</li>
+<li> تم اضافة القران الكريم</li>
+<li> اضافه قسم منوعات</li>
+<li> تم اضافة قسم اسلامية</li>
+<li> تم اضافة جمال حواء بدون انترنت</li>
 <li>إصلاحات اخرى</li>
 
+<li>New Base Updated to 2.19.17</li>
+<li>Added New Emojis</li>
+<li>Added You can call Participants in groups</li>
+<li>Added Reply Privately when select message in groups</li>
+<li>Fixed Added Stickers From Google Play Apps</li>
+<li>Fixed Crash when search in themes</li>
 <li> Enabled Stickers</li>
-<li> Exclusive No More Forward Tag to Opposite Person even if you forward</li>
-<li> Exclusive @mention Icon on Main Screen to easily Know where you are tagged</li>
-<li> Exclusively Improved Option to Block Calls with/without Showing Ringing to Opp Person.</li>
-<li> Exclusively Added New Option to Select Part Message (Mod 1.2.2)</li>
 <li> Enabled Swipe To Reply</li>
 <li> Enabled Group Calls</li>
 <li> Increased Forward Limit for Indian Users</li>
