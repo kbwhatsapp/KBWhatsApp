@@ -1,45 +1,19 @@
-﻿{"version_code":451211,"content":"
-<p>تحديث جديد الأصدار الرابع New update version 4 </p>
+﻿{"version_code":451214,"content":"
+<p>تحديث جديد الأصدار الخامس New update version 5 </p>
+<p>تحديث إجباري</p>
+<p>27/06/2019</p>
 
-<li>تم بعون الله اطلاق التحديث الجديد</li>
-<li>يحمل مميزات كثيرة</li>
-<li>ملاحظة مهمة</li>
-<li>لاتقم بإزالة تثبيت النسخة السابقة كل ماعليك هو تثبيت الاصدار الجديد فوقها مباشرتاً حتى لاتفقد شئ من محادثاتك</li>
-<li>التحديث لنسخة الماركت 2.19.17</li>
-<li>إضافة الفيسات الجديدة/li>
-<li>يمكنك عمل مكالمة جماعية ما اعضاء المجموعات</li>
-<li>اذا قمت بتحديد رسالة مرسلة في المجموعة يمكنك الرد على مرسلها بشكل منفرد في الخاص</li>
-<li>إضافة قسم من الحالات الكتابية فيه اقسام كثيرة (يعمل بدون نت)</li>
-<li>تمديد فترة صلاحية الواتساب الى عام 2020</li>
-<li>أصبح بإمكانك إضافة الملصقات من اي تطبيق خاص بالملصقات في سوق بلاي</li>
-<li>زيادة حجم الحالة الى اكثر من ساعة</li>
-<li>يمكنك تثبيت 30 محادثة بدلا من 25 محادثة</li>
-<li>إضافة نافذة تأكيد عند الاتصال بشخص ما من داخل المجموعة</li>
-<li>اصلاح الايقاف الاجباري عندي اختيار اكثر من شخص في قائمة الرد التلقائي و الرسائل المجدولة</li>
-<li>اصلاح ظهور نافذة عرض الرسائل المرسلة بعد الضغط على عرض المزيد في معلومات المجموعة</li>
-<li> هذه النسخه لا تتأثر بالفيروسات اطلاقا وتم اصلاح مشكلة الاغلاق بقوه عند ارسال فيروسات او رسائل تهنيج</li>
-<li> اضافة 60 قروب واتساب ومجموعات متنوعة</li>
-<li> تم اضافة القران الكريم</li>
-<li> اضافه قسم منوعات</li>
-<li> تم اضافة قسم اسلامية</li>
-<li> تم اضافة جمال حواء بدون انترنت</li>
-<li>إصلاحات اخرى</li>
+<li>نسخة ضد الحظر (يجب عمل نسخة احتياطية للمحادثات ثم حذف الواتس اب وتثبيت التحديث الجديد حتى لا يتم حظر رقمك مستقبلا)</li>
+<li>#في حال تم حظر رقمك في وقت سابق - يجب عمل نسخة احتياطية للمحادثات ثم حذف نسخة الواتساب المحظورة وتثبيت إحدث إصدار v5.00 من جديد</li>
+<li>تمديد صلاحية النسخة لمدة ثلاثة أشهر</li>
+<li>اصلاح الانهيار عند فتح محادثة في بعض الاصدارات</li>
 
-<li>New Base Updated to 2.19.17</li>
-<li>Added New Emojis</li>
-<li>Added You can call Participants in groups</li>
-<li>Added Reply Privately when select message in groups</li>
-<li>Fixed Added Stickers From Google Play Apps</li>
-<li>Fixed Crash when search in themes</li>
-<li> Enabled Stickers</li>
-<li> Enabled Swipe To Reply</li>
-<li> Enabled Group Calls</li>
-<li> Increased Forward Limit for Indian Users</li>
-<li> Added Option to Set Duration for Revoked Message Notification (Mod 6.8)</li>
-<li> Added Themed Stickers Tab</li>
-<li> Fixed Hidden Chats Showing in Calls Tab</li>
-<li> Fixed Square Pics</li>
-<li> Fixed Search in Themes</li>
+<p>27/06/2019</p>
+<p>Compulsory update</p>
+<li>Anti-Ban</li>
+<li> Anti-Ban (Please take Backup - Uninstall App / Install WhatsAppKB v5.00)</li>
+<li>Anti-Ban (If you got banned before please take Backup - Uninstall App / Install WhatsAppKB v5.00 again)</li>
+<li>Fixed Crash when open chat in some devices</li>
 
 ","url":"https://kbmods.blogspot.com/p/whatsapp-alkaser-3copys.html"
 }
