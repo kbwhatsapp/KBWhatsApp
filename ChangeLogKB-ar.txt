@@ -1,19 +1,13 @@
-﻿{"version_code":451217,"content":"
-<p>تحديث جديد الأصدار السادس New update version 6</p>
-<p>تحديث إجباري</p>
-<p>13/08/2019</p>
+{"version_code":451217,"content":"
+<p>تحديث 1.60 (Update)</p>
+<p>12/08/2019</p>
 
-<li>تمديد صلاحية النسخة</li>
-<li>نسخة ضد الحظر (يجب عمل نسخة احتياطية للمحادثات ثم حذف الواتس اب وتثبيت التحديث الجديد حتى لا يتم حظر رقمك مستقبلا)</li>
-<li>#في حال تم حظر رقمك في وقت سابق - يجب عمل نسخة احتياطية للمحادثات ثم حذف نسخة الواتساب المحظورة وتثبيت إحدث إصدار v5.00 من جديد</li>
-<li>تمديد صلاحية النسخة لمدة ثلاثة أشهر</li>
-<li>اصلاح الانهيار عند فتح محادثة في بعض الاصدارات</li>
+<li>تم تمديد النسخه 5 اشهر من نشرها</li>
+<li>حل مشكلة الايقاف الاجباري عند دخول اي محادثه</li>
 
-<p>13/08/2019</p>
-<p>Compulsory update</p>
-<li>Anti-Ban</li>
-<li>Anti-Ban (If you got banned before please take Backup - Uninstall App / Install WhatsAppKB v6.00 again)</li>
-<li>Fixed Crash when open chat in some devices</li>
+<li> Extended version 5 months</li>
+<li>Many More Fixes</li>
+<li> Fixed all problems</li>
 
 ","url":"https://kbmods.blogspot.com/p/whatsapp-alkaser-3copys.html"
 }
