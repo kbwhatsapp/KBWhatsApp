@@ -1,4 +1,4 @@
-{"version_code":451219,"content":"
+{"version_code":451217,"content":"
 <p>تحديث 1.60 (Update)</p>
 
 <li>تم تمديد النسخه 5 اشهر من نشرها</li>
