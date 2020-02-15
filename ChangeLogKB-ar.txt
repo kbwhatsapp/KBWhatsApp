@@ -1,16 +1,16 @@
-{"version_code":451223,"content":"
-<p>تحديث 1.96 (Update)</p>
-<p>08/12/2019</p>
+{"version_code":452895,"content":"
+<p>تحديث 2.00 (Update)</p>
+<p>16/02/2020</p>
 
-<li>تحديث الى اصدار 2.19.274 من نسخة المتجر</li>
+<li>تستطيع الان تثبيت اكثر من 1000 محادثة</li>
 
-<li>نواجه صعوبات في اضافة المميزات السابقة بسبب سياسات شركة الواتساب ، سنحاول اضافتها لاحقا ان شاء الله</li>
+<li>اصلاح مشكلة الثيمات واضافة سرفر ثيمات يحتوي على اكثر من 1000 ثيم جديد</li>
 
-<li>حل مشكلة تسجيلك صوت في المحادثه</li>
+<li>تمديد عمر النسخه 4 اشهر</li>
 
 <li> فصل الانترنت عن الواتس اب من ايقونة الواي فاي</li>
 
-<li>اصلاح مشكلة في الحاله بحيث عند قيامك برد على حالة أحدهم لايستجيب التطبيق لذلك وقد تم حل هذه المشكله</li>
+<li>حل مشكلة تأخر وصول الرسائل في بعض الاجهزة</li>
 
 <li>زيادة حجم الحاله الى اكثر من 15 دقائق بدلا من 30 ثانيه</li>
 
@@ -26,7 +26,7 @@
 
 <li>والعديد من الاصلاحات الأخرى</li>
 
-<p>Update method: Click Open. You will see the explanation article. You will find links in golden, red and blue. Download and install the new version without deleting the old version </p>
+<p>Increase duration of Status to more than 10 minutes </p>
 
 ","url":"https://kbmods.blogspot.com/2019/12/whatsapp-alkaser-plus-2020.html"
 }
