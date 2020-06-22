@@ -1,6 +1,5 @@
-{"version_code":452895,"content":"
-<p>تحديث 2.00 (Update)</p>
-<p>16/02/2020</p>
+{"version_code":452896,"content":"
+<p>تحديث 8.00 (Update)</p>
 
 <li>تستطيع الان تثبيت اكثر من 1000 محادثة</li>
 
@@ -28,5 +27,5 @@
 
 <p>Increase duration of Status to more than 10 minutes </p>
 
-","url":"https://kbmods.blogspot.com/p/whatsapp-alkaser-3copys.html"
+","url":"https://taiz-tk.blogspot.com/2020/05/kb2whatsapp-whatsapp-plus-black-dark-mode.html"
 }
