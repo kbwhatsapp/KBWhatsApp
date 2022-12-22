@@ -1,1 +1,1 @@
-{'ver1':'22', 'ver2':'00', 'ver3':'\n[تنبيه] عزيزي مستخدم واتساب الكاسر قم بالاشتراك بقناة واتساب الكاسر الرسمية على التلجرام تجنبآ توقف الواتساب عن العمل .\nقم بالنقر على تنزيل.\n' , 'dli':'https://t.me/kbmods'}
+{'ver1':'22', 'ver2':'00', 'ver3':'\n[تنبيه] عزيزي مستخدم واتساب الكاسر قم بالاشتراك بقناة واتساب الكاسر الرسمية على التلجرام تجنبآ توقف الواتساب عن العمل .\nقم بالنقر على تنزيل.\n [Alert] Dear KBWhatsApp user, subscribe to the official KBWhatsApp channel on Telegram to avoid WhatsApp stopping working .\n Click Download .\n' , 'dli':'https://t.me/kbmods'}
