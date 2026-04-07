@@ -1,5 +1,1 @@
-{'ver1':'42', 'ver2':'50', 'ver3':'\n🛠{إصلاح} مشكلة تعذر الربط في بعض الاجهزة.\n🛠{إصلاح} العديد من المشاكل.\n⚙️ {إصلاح} بعض الانهيارات والأخطاء.\n\n\n🛠{fixed} Problem with connection failure on some devices.🛠{fixed} Fix some other crashes.\n' , 'dli':'https://www.abu3rabwhats.com/2021/05/kbwhatsapp.html'}
-
-
-
-
+{'ver1':'44', 'ver2':'00', 'ver3':'\n⬆️ {تحديث} إلى الإصدار 2.26.7.74.\n✔️ {تفعيل} تفعيل العديد من الميزات الأخرى.\n✔️ {تفعيل} تفعيل العديد من الميزات الجديدة.\n🛠 {إصلاح} تحسين كبير في ميزة ربط الأجهزة لزيادة سرعة واستقرار الاتصال.\n🛠 {إصلاح} ميزة الرد التلقائي.\n🛠 {إصلاح} بعض الانهيارات والأخطاء.\n\n⬆️ {Update} to version 2.26.7.74.\n✔️ {Enable} Enable many other features.\n✔️ {Enable} Several new features have been enabled.\n🛠 {Fix} improvement in device linking for faster and more stable connections.\n🛠 {Fix} Auto-reply feature..\n🛠 {Fix} Enhanced protection against bans.\n🛠 {Fix} Some crashes.' , 'dli':'https://www.abu3rabwhats.com/2021/05/kbwhatsapp.html'}
